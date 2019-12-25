@@ -1,0 +1,15 @@
+E:\VSCode\WebApplication2\DataLayer\bin\Debug\netcoreapp3.0\DataLayer.deps.json
+E:\VSCode\WebApplication2\DataLayer\bin\Debug\netcoreapp3.0\DataLayer.dll
+E:\VSCode\WebApplication2\DataLayer\bin\Debug\netcoreapp3.0\DataLayer.pdb
+E:\VSCode\WebApplication2\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.csprojAssemblyReference.cache
+E:\VSCode\WebApplication2\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.AssemblyInfoInputs.cache
+E:\VSCode\WebApplication2\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.AssemblyInfo.cs
+E:\VSCode\WebApplication2\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.dll
+E:\VSCode\WebApplication2\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.pdb
+E:\VSCode\DIinClassLibrary\DataLayer\bin\Debug\netcoreapp3.0\DataLayer.deps.json
+E:\VSCode\DIinClassLibrary\DataLayer\bin\Debug\netcoreapp3.0\DataLayer.dll
+E:\VSCode\DIinClassLibrary\DataLayer\bin\Debug\netcoreapp3.0\DataLayer.pdb
+E:\VSCode\DIinClassLibrary\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.AssemblyInfoInputs.cache
+E:\VSCode\DIinClassLibrary\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.AssemblyInfo.cs
+E:\VSCode\DIinClassLibrary\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.dll
+E:\VSCode\DIinClassLibrary\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.pdb
